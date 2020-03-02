@@ -1,0 +1,22 @@
+
+/* .active {
+
+    border: 5px solid blue;
+} */
+
+.changeColor {
+
+    border: 5px solid green;
+} 
+
+img{
+    /* border: 5px solid darkgoldenrod; */
+    border-style:  solid;
+   
+    border-width:20px;
+   
+}
+
+@keyframes mymove {
+    50% {border-width: 15px;}
+  }
